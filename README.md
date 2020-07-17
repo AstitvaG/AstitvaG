@@ -10,6 +10,6 @@
 
 <p align="center">
 <a href=https://linkedin.com/in/astitva-gupta target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg alt="astitva-gupta" height="20" width="20" /></a>
-<a href=https://fb.com/astitva gupta target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg alt="astitva gupta" height="20" width="20" /></a>
+<a href=https://fb.com/astitva.g.5 target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg alt="astitva gupta" height="20" width="20" /></a>
 <a href=https://instagram.com/_alphaculf_ target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg alt="_alphaculf_" height="20" width="20" /></a>
 </p>
