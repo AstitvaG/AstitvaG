@@ -8,8 +8,8 @@
 </p>
 
 <ul align="center">
-  <li> 💬 Ask me about <b>Android, React, JS, C++, JAVA, etc</b></li>
-  <li> 📫 How to reach me <b>astitva.gupta@students.iiit.ac.in</b></li>
+  💬 Ask me about <b>Android, React, JS, C++, JAVA, etc</b> <br/>
+  📫 How to reach me <b>astitva.gupta@students.iiit.ac.in</b>
 </ul>
 <p align="center">
 <img src=https://github-readme-stats.vercel.app/api?username=astitvag&show_icons=true alt=astitvag /> </p>
