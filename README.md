@@ -1,4 +1,4 @@
-<html>
+<!-- <html>
 
 <head>
   <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -7,7 +7,7 @@
   <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap" rel="stylesheet">
 </head>
 
-<body>
+<body> -->
   <div class="background">
     <div class="container">
       <div class="photo-section">
@@ -86,6 +86,6 @@
       margin-top: -20px;
     }
   </style>
-</body>
+<!-- </body>
 
-</html>
+</html> -->
